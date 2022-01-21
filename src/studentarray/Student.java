@@ -2,7 +2,7 @@
 package studentarray;
 
 /**
- *This class +++ Insert class description here +++
+ *This is a model class for student
  * 
  * @author Guntaas Kaur
  */
