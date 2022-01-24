@@ -4,7 +4,7 @@ package studentarray;
 /**
  *This is a model class for student
  * 
- * @author Guntaas Kaur, syst78334
+ * @author Guntaas Kaur
  */
 public class Student {
     
